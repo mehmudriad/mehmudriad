@@ -3,7 +3,7 @@
 Mechanical Engineering BS/MS @ Drexel University  
 Robotics & AI Researcher · Philadelphia, PA
 
-**Building:** 3D concrete printer (mechatronics + controls), Saxbys mobile app (React Native), AI tooling with Claude
+**Building:** 3D concrete printer (mechatronics + controls), AI tooling with Claude
 
 **Skills:** Python · C · TypeScript · React Native · Robotics · Control Systems · CAD
 
