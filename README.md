@@ -9,4 +9,3 @@ Robotics & AI Researcher · Philadelphia, PA
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-riadmehmud-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/riadmehmud)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmudriad&show_icons=true&theme=dark&hide_border=true&hide_title=true)
