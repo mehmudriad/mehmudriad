@@ -10,8 +10,6 @@ Dean's List · Dean's Scholarship · GPA 3.70
 
 **3D Concrete Printer.** Contributing to a full gantry-based concrete printing system at Drexel's ARVIN Lab. Focused on material behavior, layer deposition, and construction automation. Supervised by Dr. Arvin Ebrahimkhanlou.
 
-**LinkedIn MCP Server.** Wired LinkedIn into a terminal using the MCP protocol. Type a question, Claude calls LinkedIn, real results come back. No browser. Took 3 attempts. Two failed.
-
 ### Experience
 
 **Undergraduate Researcher, Robotics and AI** · Drexel ARVIN Lab · Jan 2026 – Present
