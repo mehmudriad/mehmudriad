@@ -1,5 +1,7 @@
 # Riad Mehmud
 
+<img src="MYSELFI.png" width="160" style="border-radius: 50%;" />
+
 Mechanical Engineering BS/MS @ Drexel University · Philadelphia, PA
 
 I design parts, build robots, and make lattes at a coffee shop on campus. Most of what I build sits at the edge of mechanical and software: control systems, embedded hardware, AI tooling. No CS background. I figure it out as I go.
