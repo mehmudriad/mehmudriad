@@ -2,15 +2,15 @@
 
 Mechanical Engineering BS/MS @ Drexel University · Philadelphia, PA
 
-I design parts, build robots, and make lattes at a coffee shop on campus. Most of what I build sits at the edge of mechanical and software — control systems, embedded hardware, AI tooling. No CS background. I figure it out as I go.
+I design parts, build robots, and make lattes at a coffee shop on campus. Most of what I build sits at the edge of mechanical and software: control systems, embedded hardware, AI tooling. No CS background. I figure it out as I go.
 
 Dean's List · Dean's Scholarship · GPA 3.70
 
 ### What I'm building
 
-**3D Concrete Printer** — contributing to a full gantry-based concrete printing system at Drexel's ARVIN Lab. Focused on material behavior, layer deposition, and construction automation. Supervised by Dr. Arvin Ebrahimkhanlou.
+**3D Concrete Printer.** Contributing to a full gantry-based concrete printing system at Drexel's ARVIN Lab. Focused on material behavior, layer deposition, and construction automation. Supervised by Dr. Arvin Ebrahimkhanlou.
 
-**LinkedIn MCP Server** — wired LinkedIn into a terminal using the MCP protocol. Type a question, Claude calls LinkedIn, real results come back. No browser. Took 3 attempts. Two failed.
+**LinkedIn MCP Server.** Wired LinkedIn into a terminal using the MCP protocol. Type a question, Claude calls LinkedIn, real results come back. No browser. Took 3 attempts. Two failed.
 
 ### Experience
 
@@ -35,7 +35,7 @@ Extracted particle track data from IceCube detector event files using Docker and
 Structural model sustained ~39N before deformation. Tools: SOLIDWORKS, Visual Analytics
 
 **Mousetrap-Powered Vehicle**
-Engineered for maximum travel distance — focused on mechanical efficiency and energy transfer
+Engineered for maximum travel distance, focused on mechanical efficiency and energy transfer
 
 ### Skills
 
